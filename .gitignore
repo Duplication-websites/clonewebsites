@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+node_modules
+npm-debug.log
+coverage
+test/e2e/results
+.nyc_output
